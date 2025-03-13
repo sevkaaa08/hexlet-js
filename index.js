@@ -1,4 +1,4 @@
-import smthng from './src/index.js'
-import _ from "lodash";
+import _ from 'lodash';
+import smthng from './src/index.js';
 
 smthng();
